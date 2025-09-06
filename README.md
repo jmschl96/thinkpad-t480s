@@ -1,7 +1,7 @@
 # Lenovo Thinkpad T480s
 Lenovo ThinkPad T480s OpenCore Configuation for macOS Ventura.
 
-# GenSMBIOS
+## GenSMBIOS
 We need a script, called GenSMBIOS, to create fake serial number, UUID and MLB numbers. This step is essential to have working iMessage, so do not skip it!
 
 The process is the following:
